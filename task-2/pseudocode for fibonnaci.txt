@@ -1,0 +1,8 @@
+psuedocode for fibonaaci
+
+1.declaring integers a,b,c,i,n.
+2.assigning a=0,b=1.
+3.use for loop from i=2 to i=n.
+4.now under for loop we do these operations 
+  c=a+b,a=b,b=c
+5.the ouput is c

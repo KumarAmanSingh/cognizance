@@ -1,0 +1,9 @@
+psuedocode for number is divisible by 3 without using (n%3==0)
+
+1.declare "num and r" as integer
+2.input num
+3.while num is greater equal than 3 
+4.we do num equals num minus 3
+5.whenever num>=3 above line is excuted 
+6.when above statement is "false" the r equals num
+7.if r equals 0 then output is "true" else print"false".
